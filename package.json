@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-project/",
+    "build": "vite build --base=/html_84_Artemon-x58/",
     "preview": "vite preview"
   },
   "devDependencies": {
